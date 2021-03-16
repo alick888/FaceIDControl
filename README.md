@@ -1,4 +1,3 @@
-# FaceIDControl
 Control devices using Face ID
 =============================
 This Python project requires the following components:
